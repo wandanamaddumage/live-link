@@ -29,20 +29,20 @@ You can access the project here: https://www.loom.com/share/75ae73ec31a7441faf70
 1. Clone the repository
 
 ```
-git clone https://github.com/your-username/realtime-chat-app.git
-cd realtime-chat-app
+git clone https://github.com/wandanamaddumage/live-link.git
+cd live-link
 ```
 
 2. Install dependencies
-For both client and server:
+For both frontend and backend:
 
 ```
-# In the root folder
+# In the backend folder
 npm install
 
-# Move to client and install
+# Move to frontend and install
 
-cd client
+cd frontend
 npm install
 ```
 ## ⚙️ Setup Environment Variables
