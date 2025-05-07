@@ -2,7 +2,7 @@
 
 A full-stack Realtime Chat App built with the MERN stack, enhanced by Socket.io for real-time communication, and styled with TailwindCSS + Daisy UI.
 
-🚀 Highlights
+## 🚀 Highlights
 
 🌟 Tech stack: MongoDB, Express.js, React, Node.js + Socket.io + TailwindCSS + Daisy UI
 
