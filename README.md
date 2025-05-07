@@ -75,11 +75,3 @@ npm start
 ```
 
 The app will start running at: http://localhost:5001
-
-## 📦 Deployment
-Easily deploy using platforms like Render, Vercel, or Railway
-
-Store your environment variables securely in their respective dashboard
-
-# 🙌 Contributing
-Contributions are welcome! Open an issue or submit a pull request.
